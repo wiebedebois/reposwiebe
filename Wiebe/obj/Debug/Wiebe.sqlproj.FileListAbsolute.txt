@@ -1,0 +1,10 @@
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\bin\Debug\Wiebe.dacpac
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\bin\Debug\Wiebe.dll
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\bin\Debug\Wiebe.pdb
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\Wiebe.sqlprojAssemblyReference.cache
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\Model.xml
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\refactor.xml
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\postdeploy.sql
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\predeploy.sql
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\Wiebe.dll
+c:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\Wiebe\obj\Debug\Wiebe.pdb
